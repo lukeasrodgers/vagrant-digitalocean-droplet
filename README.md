@@ -1,0 +1,2 @@
+vagrant-digitalocean-droplet
+============================
